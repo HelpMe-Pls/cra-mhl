@@ -52,7 +52,6 @@
     "istanbul-reports": "^3.0.2",
     "jest-puppeteer": "^4.4.0",
     "moment": "^2.29.1",
-    "node-sass": "^4.14.1",
     "nyc": "^15.1.0",
     "prettier-eslint": "^11.0.0",
     "prettier-eslint-cli": "^5.0.0",
@@ -111,5 +110,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "node-sass": "4.14.1"
   }
 }
