@@ -1,4 +1,4 @@
-Place all your object model files here, for example: userObject.ts
+//Place all your object model files here, for example: userObject.ts
 
 /*
 Author: Eli Elad Elrom
@@ -17,7 +17,7 @@ export const initUser = (): userObject => ({
   password: '',
 })
 
-Next, create an index and add model object for easy access, example: index.ts
+//Next, create an index and add model object for easy access, example: index.ts
 
 /*
 Author: Eli Elad Elrom
